@@ -1,0 +1,11 @@
+{
+  "name": "can-build-fence",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "jest": "^22.4.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
